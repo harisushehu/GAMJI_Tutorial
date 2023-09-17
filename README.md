@@ -1,4 +1,4 @@
-# Python Data Analysis and Visualization Tutorial
+# Python for Data Analysis and Visualization Tutorial
 
 ## Aim of the Tutorial
 Welcome to the Python Data Analysis and Visualization Tutorial that was conducted yesterday for GAMJI mentors. This tutorial focused on providing hands-on experience with data analysis and visualization using Python. We explored data analysis techniques and created various visualizations to gain insights from the data.
